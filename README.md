@@ -17,16 +17,16 @@
 
 <!-- Replace YOUR_* with your actual usernames/links -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f1a?style=for-the-badge&logo=vercel&logoColor=c9b8e8&labelColor=0f0f1a)](https://YOUR_PORTFOLIO_LINK)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f1a?style=for-the-badge&logo=linkedin&logoColor=c9b8e8&labelColor=0f0f1a)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f1a?style=for-the-badge&logo=vercel&logoColor=c9b8e8&labelColor=0f0f1a)]([https://avnisinghal.tech])&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f1a?style=for-the-badge&logo=linkedin&logoColor=c9b8e8&labelColor=0f0f1a)](https://www.linkedin.com/in/avnisinghal001)&nbsp;
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-0f0f1a?style=for-the-badge&logo=x&logoColor=c9b8e8&labelColor=0f0f1a)](https://x.com/YOUR_TWITTER_USERNAME)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0f0f1a?style=for-the-badge&logo=gmail&logoColor=c9b8e8&labelColor=0f0f1a)](mailto:YOUR_EMAIL)&nbsp;
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0f0f1a?style=for-the-badge&logo=huggingface&logoColor=c9b8e8&labelColor=0f0f1a)](https://huggingface.co/YOUR_HUGGINGFACE_USERNAME)
+[![Email](https://img.shields.io/badge/Email-0f0f1a?style=for-the-badge&logo=gmail&logoColor=c9b8e8&labelColor=0f0f1a)](mailto:singhalavni26@gmail.com)&nbsp;
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0f0f1a?style=for-the-badge&logo=huggingface&logoColor=c9b8e8&labelColor=0f0f1a)](https://huggingface.co/avnisinghal001)
 
-[![Medium](https://img.shields.io/badge/Medium-0f0f1a?style=for-the-badge&logo=medium&logoColor=c9b8e8&labelColor=0f0f1a)](https://medium.com/@YOUR_MEDIUM_USERNAME)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-0f0f1a?style=for-the-badge&logo=leetcode&logoColor=c9b8e8&labelColor=0f0f1a)](https://leetcode.com/YOUR_LEETCODE_USERNAME)&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-0f0f1a?style=for-the-badge&logo=kaggle&logoColor=c9b8e8&labelColor=0f0f1a)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)&nbsp;
-[![Dev.to](https://img.shields.io/badge/Dev.to-0f0f1a?style=for-the-badge&logo=devdotto&logoColor=c9b8e8&labelColor=0f0f1a)](https://dev.to/YOUR_DEVTO_USERNAME)
+<!--[![Medium](https://img.shields.io/badge/Medium-0f0f1a?style=for-the-badge&logo=medium&logoColor=c9b8e8&labelColor=0f0f1a)](https://medium.com/@YOUR_MEDIUM_USERNAME)&nbsp; -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f0f1a?style=for-the-badge&logo=leetcode&logoColor=c9b8e8&labelColor=0f0f1a)](https://leetcode.com/avnisinghal1)&nbsp;
+<!--[![Kaggle](https://img.shields.io/badge/Kaggle-0f0f1a?style=for-the-badge&logo=kaggle&logoColor=c9b8e8&labelColor=0f0f1a)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)&nbsp;
+[![Dev.to](https://img.shields.io/badge/Dev.to-0f0f1a?style=for-the-badge&logo=devdotto&logoColor=c9b8e8&labelColor=0f0f1a)](https://dev.to/YOUR_DEVTO_USERNAME) -->
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=9b7fd4&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=avnisinghal001&style=flat-square&color=9b7fd4&label=profile+views)
 
 </div>
 
@@ -58,8 +58,8 @@
 Name         Avni Singhal
 Degree       B.Tech Computer Science & Engineering
 Focus        Software Engineering · AI/ML · Full-Stack
-Currently    Building, learning, and shipping
-Mindset      Systems first. Products that matter.
+Currently    Building, learning and shipping
+Mindset      Products that matter
 Status       Open to internships & collaborations
 ```
 
@@ -67,22 +67,18 @@ Status       Open to internships & collaborations
 
 I am a computer science student who builds things to understand them.
 My curiosity lives at the intersection of **intelligent systems** and
-**real-world product thinking** — the kind of software that actually
-changes how people work, learn, or create.
-
-I believe in writing clean backend logic, designing thoughtful APIs,
-and letting data tell honest stories through machine learning.
-Still learning. Always shipping.
+**real-world product thinking**, the kind of software that actually
+changes how people work, learn or create.
 
 </td>
 <td width="5%"></td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d0d16&title_color=c9b8e8&text_color=a89bc2&icon_color=9b7fd4&ring_color=9b7fd4&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=avnisinghal001&show_icons=true&hide_border=true&bg_color=0d0d16&title_color=c9b8e8&text_color=a89bc2&icon_color=9b7fd4&ring_color=9b7fd4&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=9b7fd40f&ring=9b7fd4&fire=c9b8e8&currStreakLabel=c9b8e8&sideLabels=a89bc2&dates=6b5f8a&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=avnisinghal001&theme=transparent&hide_border=true&stroke=9b7fd40f&ring=9b7fd4&fire=c9b8e8&currStreakLabel=c9b8e8&sideLabels=a89bc2&dates=6b5f8a&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="Streak Stats" />
 
 </td>
 </tr>
@@ -106,21 +102,21 @@ Still learning. Always shipping.
 
 **Backend Engineering**
 
-Designing scalable APIs, understanding distributed systems, and learning how production software actually holds together under pressure.
+Designing scalable APIs, understanding distributed systems and learning how production software actually holds together under pressure.
 
 </td>
 <td align="center" width="33%" valign="top">
 
 **AI / ML Products**
 
-Moving beyond notebooks — building end-to-end ML pipelines that solve defined problems, not just achieve benchmark scores.
+Moving beyond notebooks, building end-to-end AI-ML pipelines that solve defined problems, not just achieve benchmark scores.
 
 </td>
 <td align="center" width="33%" valign="top">
 
 **Full-Stack Development**
 
-Connecting data, logic, and interface into products that feel complete — from database schema to the final rendered component.
+Connecting data, logic and interface into products that feel complete, from database schema to the final rendered component.
 
 </td>
 </tr>
@@ -202,7 +198,7 @@ Connecting data, logic, and interface into products that feel complete — from 
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d0d16&color=c9b8e8&line=9b7fd4&point=ffffff&area=true&area_color=9b7fd4&hide_border=true&radius=8" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avnisinghal001&bg_color=0d0d16&color=c9b8e8&line=9b7fd4&point=ffffff&area=true&area_color=9b7fd4&hide_border=true&radius=8" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -210,7 +206,7 @@ Connecting data, logic, and interface into products that feel complete — from 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d0d16&title_color=c9b8e8&text_color=a89bc2&langs_count=8" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnisinghal001&layout=compact&hide_border=true&bg_color=0d0d16&title_color=c9b8e8&text_color=a89bc2&langs_count=8" width="42%" alt="Top Languages" />
 
 </div>
 
@@ -230,7 +226,6 @@ Connecting data, logic, and interface into products that feel complete — from 
   Build to understand, not just to ship.
   Systems thinking before syntax.
   If the data does not tell a clear story, ask a better question.
-  The best products feel inevitable in hindsight.
   Document what you build. Teach what you learn.
 ```
 
@@ -266,19 +261,12 @@ Connecting data, logic, and interface into products that feel complete — from 
 
 | &nbsp; | What |
 |---|---|
-| **Internships** | Software Engineering, Backend, Full-Stack, ML Engineering |
+| **Internships** | Software Engineering, Backend, Full-Stack, AI-ML Engineering |
 | **Collaborations** | Open source projects, AI/ML products, side projects with real users |
-| **Writing** | Technical blogs, learnings, build logs |
-| **Conversations** | Systems, product, career, anything at the intersection of tech and impact |
+<!--| **Writing** | Technical blogs, learnings, build logs | -->
+<!--| **Conversations** | Systems, product, career, anything at the intersection of tech and impact |-->
 
 </div>
-
-<br/>
-
-> &nbsp;If you are building something interesting or have an opportunity worth talking about — reach out.
-> &nbsp;I respond to every message.
-
-<br/>
 
 ---
 
@@ -294,9 +282,9 @@ Connecting data, logic, and interface into products that feel complete — from 
 
 <sub>
 Avni Singhal &nbsp;·&nbsp; B.Tech CSE &nbsp;·&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">github</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">linkedin</a> &nbsp;·&nbsp;
-<a href="https://YOUR_PORTFOLIO_LINK">portfolio</a>
+<a href="https://github.com/avnisinghal001">github</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/avnisinghal001">linkedin</a> &nbsp;·&nbsp;
+<a href="[https://avnisinghal.tech]">portfolio</a>
 </sub>
 
 </div>
