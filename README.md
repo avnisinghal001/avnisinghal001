@@ -17,7 +17,7 @@
 
 <!-- Replace YOUR_* with your actual usernames/links -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f1a?style=for-the-badge&logo=vercel&logoColor=c9b8e8&labelColor=0f0f1a)]([https://avnisinghal.tech])&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f1a?style=for-the-badge&logo=vercel&logoColor=c9b8e8&labelColor=0f0f1a)](https://avnisinghal.tech)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f1a?style=for-the-badge&logo=linkedin&logoColor=c9b8e8&labelColor=0f0f1a)](https://www.linkedin.com/in/avnisinghal001)&nbsp;
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-0f0f1a?style=for-the-badge&logo=x&logoColor=c9b8e8&labelColor=0f0f1a)](https://x.com/YOUR_TWITTER_USERNAME)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0f0f1a?style=for-the-badge&logo=gmail&logoColor=c9b8e8&labelColor=0f0f1a)](mailto:singhalavni26@gmail.com)&nbsp;
@@ -284,7 +284,7 @@ Connecting data, logic and interface into products that feel complete, from data
 Avni Singhal &nbsp;·&nbsp; B.Tech CSE &nbsp;·&nbsp;
 <a href="https://github.com/avnisinghal001">github</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/avnisinghal001">linkedin</a> &nbsp;·&nbsp;
-<a href="[https://avnisinghal.tech]">portfolio</a>
+<a href="https://avnisinghal.tech">portfolio</a>
 </sub>
 
 </div>
